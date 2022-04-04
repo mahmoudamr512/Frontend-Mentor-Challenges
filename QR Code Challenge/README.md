@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mahmoudamr512/Frontend-Mentor-Challenges/tree/main/QR%20Code%20Challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/mahmoudamr512/Frontend-Mentor-Challenges/tree/main/QR%20Code%20Challenge)
+- Live Site URL: [QRChallengeLive](https://qrc-hallenge-vercel.vercel.app/)
 
 ## My process
 
@@ -42,10 +42,10 @@ I would love to focus more on using CSS grids instead of flexbox to extend my to
 ## Author
 
 - Frontend Mentor - [@mahmoudamr512](https://www.frontendmentor.io/profile/mahmoudamr512)
-- Twitter - [@](https://www.twitter.com/yourusername)
+- Twitter - [@mahmoudamr512](https://twitter.com/mahmoudamr512)
 
 
 ## Acknowledgments
 
-To the youtuber who let me know this awesome website "Frontend Mentor", one of the greatest youtubers: Kevin Powell (https://www.youtube.com/kepowob)
+To the youtuber who let me know this awesome website "Frontend Mentor", one of the greatest youtubers: [Kevin Powell](https://www.youtube.com/kepowob)
 
