@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+figure {
+    margin: 0px;
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main-card {
+    background-color: hsl(216, 50%, 16%);
+    padding: 35px;
+    border-radius: 20px;
+    width: 18em;
+}
+
+p {
+    font-size: 18px;
+    color: hsl(215, 32%, 27%);
+    font-weight: 300;
+}
+
+.eth-image {
+    border-radius: 10px;
+    width: 100%;
+}
+
+#avatar-fig {
+    display: flex;
+}
+
+
+
+#avatar-fig img {
+    width: 30px;
+    height: 100%;
+    margin-right: auto;
+    border-radius: 20px;
+    display: inline;
+    border: solid 0.5px white;
+}
+
+#avatar-fig p { 
+    display: inline;
+}
+
+#avatar-fig p span { 
+    color: white;
+}
